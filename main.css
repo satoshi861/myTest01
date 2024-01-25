@@ -1,0 +1,13 @@
+header{
+    height: 250px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+main{
+    min-height:800px;
+}
+footer{
+    background-color: #3a3737;
+    height: 60px;
+    
+}
